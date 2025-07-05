@@ -1,3 +1,5 @@
+# AmazeCart | All at One Place | E-commerce-project
+
 ## Quick View
 - Hibernate configuration added( database and tables automatically create when run the project)
 - Service classes provide reusable services throughout project
